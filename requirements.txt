@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+shap
+jupyterlab
+notebook
+tqdm
+python-dotenv
+joblib
+jupyter
+ipykernel
