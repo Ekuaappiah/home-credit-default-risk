@@ -6,6 +6,25 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
+
+.DS_Store
+.idea/
+
+.env
+
+# Ignore folders:
+data/
+models/
+
+# Ignore Pipenv files (if you're using requirements.txt instead)
+Pipfile
+Pipfile.lock
+
+.virtual_documents
+
+=======
+>>>>>>> 5ce9bfa3cebffd09cb2886cb729adb094c505cd8
 # Distribution / packaging
 .Python
 build/
