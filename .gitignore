@@ -19,6 +19,8 @@ models/
 Pipfile
 Pipfile.lock
 
+catboost_info
+
 .virtual_documents
 
 # Distribution / packaging

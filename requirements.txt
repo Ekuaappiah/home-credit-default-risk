@@ -1,6 +1,7 @@
 pandas
 numpy
 matplotlib
+imblearn
 seaborn
 scikit-learn
 xgboost
@@ -12,5 +13,3 @@ notebook
 tqdm
 python-dotenv
 joblib
-jupyter
-ipykernel
